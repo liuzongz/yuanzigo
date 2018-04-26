@@ -1,0 +1,251 @@
+[ 2018-04-20T22:35:50+08:00 ] 172.19.226.46 61.151.207.252 GET /mobile/activity/detailtoc/id/312
+[ log ] www.yuanzigo.com/mobile/activity/detailtoc/id/312 [运行时间：0.044714s][吞吐率：22.36req/s] [内存消耗：3,956.95kb] [文件加载：68]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'activity',
+    2 => 'detailtoc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'connection' => 'close',
+  'cookie' => 'Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1521687540; Hm_lpvt_48ffe2a92a272aad97bef37eeb07ace7=1523418990; jump=http%3A%2F%2Fwww.yuanzigo.com%2Fmobile%2Fshop%2Findex; weixinInfo=think%3A%7B%22openid%22%3A%22omP8NwuI0QXg1XvkKAG1YN2_gn4E%22%2C%22nickname%22%3A%22%25E5%25AE%2587%22%2C%22sex%22%3A%221%22%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Pudong%2BNew%2BDistrict%22%2C%22province%22%3A%22Shanghai%22%2C%22country%22%3A%22CN%22%2C%22headimgurl%22%3A%22http%253A%252F%252Fthirdwx.qlogo.cn%252Fmmopen%252Fvi_32%252FQ0j4TwGTfTLvdd6F97h9pfkCVVTpuyxSxDoQAaibxaiaicNw5o0aMY7zaR8wtiaur08ofh7R2oAuia3VRd8CvnnicDOg%252F132%22%2C%22privilege%22%3A%5B%5D%7D',
+  'host' => 'www.yuanzigo.com',
+  'referer' => 'http://www.yuanzigo.com/mobile/shop/index',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; HUAWEI CRR-UL20 Build/HUAWEICRR-UL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044028 Mobile Safari/537.36 MicroMessenger/6.6.5.1280(0x26060536) NetType/WIFI Language/zh_CN',
+  'x-forwarded-for' => '180.174.248.236',
+  'x-forwarded-for-pound' => '180.174.248.236',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '312',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\mobile\controller\Activity->detailtoc[ /home/wwwroot/www.yuanzigo.com/application/mobile/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/mobile/view/activity/detailtoc.html [ array (
+  0 => 'nowtime',
+  1 => 'info',
+  2 => 'format',
+  3 => 'tags',
+  4 => 'shop',
+  5 => 'options',
+  6 => 'shareData',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000487s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `openid` = 'omP8NwuI0QXg1XvkKAG1YN2_gn4E' LIMIT 1 [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000579s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 312 LIMIT 1 [ RunTime:0.000365s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_tags_activity` [ RunTime:0.000438s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_tags_activity` WHERE  `aman_tags_activity`.`delete_time` IS NULL  AND `activity_id` = 312 [ RunTime:0.000466s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000354s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_tags` [ RunTime:0.000565s ]
+[ sql ] [ SQL ] SELECT `name` FROM `aman_tags` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000271s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000351s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT `name` FROM `aman_tags` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000278s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity_format` [ RunTime:0.000451s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity_format` WHERE  `aman_activity_format`.`delete_time` IS NULL  AND `activity_id` = 312 LIMIT 1 [ RunTime:0.000371s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000292s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_shop` [ RunTime:0.000498s ]
+[ sql ] [ SQL ] SELECT `shopname`,`headimg`,`tel` FROM `aman_shop` WHERE  `id` = 123 LIMIT 1 [ RunTime:0.000242s ]
+
+---------------------------------------------------------------
+[ 2018-04-20T22:35:50+08:00 ] 172.19.226.46 61.151.207.252 POST /mobile/toc/jssignandshare
+[ log ] www.yuanzigo.com/mobile/toc/jssignandshare [运行时间：0.041073s][吞吐率：24.35req/s] [内存消耗：3,748.72kb] [文件加载：62]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'toc',
+    2 => 'jssignandshare',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'connection' => 'close',
+  'content-length' => '87',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'cookie' => 'Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1521687540; Hm_lpvt_48ffe2a92a272aad97bef37eeb07ace7=1523418990; jump=http%3A%2F%2Fwww.yuanzigo.com%2Fmobile%2Fshop%2Findex; weixinInfo=think%3A%7B%22openid%22%3A%22omP8NwuI0QXg1XvkKAG1YN2_gn4E%22%2C%22nickname%22%3A%22%25E5%25AE%2587%22%2C%22sex%22%3A%221%22%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Pudong%2BNew%2BDistrict%22%2C%22province%22%3A%22Shanghai%22%2C%22country%22%3A%22CN%22%2C%22headimgurl%22%3A%22http%253A%252F%252Fthirdwx.qlogo.cn%252Fmmopen%252Fvi_32%252FQ0j4TwGTfTLvdd6F97h9pfkCVVTpuyxSxDoQAaibxaiaicNw5o0aMY7zaR8wtiaur08ofh7R2oAuia3VRd8CvnnicDOg%252F132%22%2C%22privilege%22%3A%5B%5D%7D',
+  'host' => 'www.yuanzigo.com',
+  'origin' => 'http://www.yuanzigo.com',
+  'referer' => 'http://www.yuanzigo.com/mobile/activity/detailtoc/id/312',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; HUAWEI CRR-UL20 Build/HUAWEICRR-UL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044028 Mobile Safari/537.36 MicroMessenger/6.6.5.1280(0x26060536) NetType/WIFI Language/zh_CN',
+  'x-forwarded-for' => '180.174.248.236',
+  'x-forwarded-for-pound' => '180.174.248.236',
+  'x-requested-with' => 'XMLHttpRequest',
+)
+[ info ] [ PARAM ] array (
+  'fromurl' => 'http://www.yuanzigo.com/mobile/activity/detailtoc/id/312',
+  'id' => '312',
+)
+[ info ] [ RUN ] app\mobile\controller\Toc->jssignAndShare[ /home/wwwroot/www.yuanzigo.com/application/mobile/controller/Toc.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000562s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000794s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 312 LIMIT 1 [ RunTime:0.000412s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000355s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_shop` [ RunTime:0.000628s ]
+[ sql ] [ SQL ] SELECT `shopname`,`headimg`,`tel` FROM `aman_shop` WHERE  `id` = 123 LIMIT 1 [ RunTime:0.000289s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000270s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000540s ]
+[ sql ] [ SQL ] SELECT `rule_id` FROM `aman_user` WHERE  `openid` = 'omP8NwuI0QXg1XvkKAG1YN2_gn4E' LIMIT 1 [ RunTime:0.000464s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000413s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT `id` FROM `aman_activity` WHERE  `shop_id` = 123  AND `element` = 312 LIMIT 1 [ RunTime:0.000590s ]
+
+---------------------------------------------------------------
+[ 2018-04-20T22:36:50+08:00 ] 172.19.226.46 117.185.117.60 GET /mobile/activity/detailtoc/id/312
+[ log ] www.yuanzigo.com/mobile/activity/detailtoc/id/312 [运行时间：0.020663s][吞吐率：48.40req/s] [内存消耗：2,082.96kb] [文件加载：49]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'activity',
+    2 => 'detailtoc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Mobile/14D27 MicroMessenger/6.5.5 NetType/WIFI Language/zh_CN',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '312',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-20T22:36:50+08:00 ] 172.19.226.46 117.185.117.60 GET /mobile/wechat/getweixininfo?jump=http://www.yuanzigo.com/mobile/activity/detailtoc/id/312
+[ log ] www.yuanzigo.com/mobile/wechat/getweixininfo?jump=http://www.yuanzigo.com/mobile/activity/detailtoc/id/312 [运行时间：0.021067s][吞吐率：47.47req/s] [内存消耗：1,986.95kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'wechat',
+    2 => 'getweixininfo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Mobile/14D27 MicroMessenger/6.5.5 NetType/WIFI Language/zh_CN',
+  'accept' => '*/*',
+  'referer' => 'http://www.yuanzigo.com/mobile/activity/detailtoc/id/312',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'jump' => 'http://www.yuanzigo.com/mobile/activity/detailtoc/id/312',
+)
+[ info ] [ RUN ] app\mobile\controller\Wechat->getWeixinInfo[ /home/wwwroot/www.yuanzigo.com/application/mobile/controller/Wechat.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-20T22:36:51+08:00 ] 172.19.226.46 117.185.117.60 GET /mobile/wechat/weixininfo
+[ log ] www.yuanzigo.com/mobile/wechat/weixininfo [运行时间：0.019889s][吞吐率：50.28req/s] [内存消耗：1,944.81kb] [文件加载：47]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'wechat',
+    2 => 'weixininfo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Mobile/14D27 MicroMessenger/6.5.5 NetType/WIFI Language/zh_CN',
+  'accept' => '*/*',
+  'referer' => 'http://www.yuanzigo.com/mobile/wechat/getweixininfo?jump=http://www.yuanzigo.com/mobile/activity/detailtoc/id/312',
+  'cookie' => 'jump=http%3A%2F%2Fwww.yuanzigo.com%2Fmobile%2Factivity%2Fdetailtoc%2Fid%2F312',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\mobile\controller\Wechat->weixinInfo[ /home/wwwroot/www.yuanzigo.com/application/mobile/controller/Wechat.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-20T22:52:15+08:00 ] 172.19.226.46 139.162.113.204 GET /
+[ log ] 47.100.166.58/ [运行时间：0.019786s][吞吐率：50.54req/s] [内存消耗：2,015.92kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58',
+  'user-agent' => 'Go-http-client/1.1',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-20T23:37:15+08:00 ] 172.19.226.46 216.218.206.67 GET /
+[ log ] 47.100.166.58/ [运行时间：0.021564s][吞吐率：46.37req/s] [内存消耗：2,015.51kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------

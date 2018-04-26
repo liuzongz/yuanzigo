@@ -1,0 +1,2030 @@
+[ 2018-03-21T00:32:41+08:00 ] 172.19.226.46 123.125.71.60 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.019689s][吞吐率：50.79req/s] [内存消耗：1,978.98kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T00:32:42+08:00 ] 172.19.226.46 123.125.71.41 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.340834s][吞吐率：2.93req/s] [内存消耗：3,438.79kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T01:26:19+08:00 ] 172.19.226.46 140.205.205.23 HEAD /
+[ log ] yuanzigo.com:443/ [运行时间：0.018105s][吞吐率：55.23req/s] [内存消耗：1,978.31kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com:443',
+  'user-agent' => 'Go-http-client/1.1',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T01:26:41+08:00 ] 172.19.226.46 140.205.205.23 HEAD /
+[ log ] www.yuanzichufa.com:443/ [运行时间：0.018294s][吞吐率：54.66req/s] [内存消耗：1,978.63kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzichufa.com:443',
+  'user-agent' => 'Go-http-client/1.1',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T01:26:41+08:00 ] 172.19.226.46 140.205.205.23 HEAD /
+[ log ] www.yuanzigo.com:443/ [运行时间：0.020055s][吞吐率：49.86req/s] [内存消耗：1,978.37kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com:443',
+  'user-agent' => 'Go-http-client/1.1',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T02:20:28+08:00 ] 172.19.226.46 203.208.60.176 GET /wzgatqdsosubaqzq.html
+[ log ] www.yuanzigo.com/wzgatqdsosubaqzq.html [运行时间：0.015901s][吞吐率：62.89req/s] [内存消耗：1,572.71kb] [文件加载：40]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wzgatqdsosubaqzq',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T02:26:10+08:00 ] 172.19.226.46 60.191.38.77 GET /
+[ log ] 47.100.166.58:443/ [运行时间：0.018551s][吞吐率：53.91req/s] [内存消耗：1,978.84kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58:443',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T02:43:01+08:00 ] 172.19.226.46 59.64.129.61 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.019739s][吞吐率：50.66req/s] [内存消耗：1,978.40kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'curl/7.29.0',
+  'host' => 'www.yuanzigo.com',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T02:58:30+08:00 ] 172.19.226.46 123.126.113.189 GET /
+[ log ] yuanzigo.com/ [运行时间：0.018119s][吞吐率：55.19req/s] [内存消耗：1,979.11kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'accept' => '*/*',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip,deflate',
+  'user-agent' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
+  'connection' => 'close',
+  'if-modified-since' => 'Tue, 23 Jan 2018 19:32:36 GMT',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T02:58:46+08:00 ] 172.19.226.46 123.126.113.189 GET /home/index/index
+[ log ] yuanzigo.com/home/index/index [运行时间：0.319703s][吞吐率：3.13req/s] [内存消耗：3,438.96kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'accept' => '*/*',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip,deflate',
+  'user-agent' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
+  'connection' => 'close',
+  'if-modified-since' => 'Tue, 23 Jan 2018 19:32:36 GMT',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T04:40:43+08:00 ] 172.19.226.46 140.205.205.25 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.019375s][吞吐率：51.61req/s] [内存消耗：1,978.62kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T04:40:43+08:00 ] 172.19.226.46 140.205.205.25 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.305845s][吞吐率：3.27req/s] [内存消耗：3,438.82kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T04:40:44+08:00 ] 172.19.226.46 140.205.205.23 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.196161s][吞吐率：5.10req/s] [内存消耗：3,438.51kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'host' => 'www.yuanzigo.com',
+  'referer' => 'https://www.yuanzigo.com/home/index/index',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T06:20:15+08:00 ] 172.19.226.46 140.205.205.23 GET /
+[ log ] yuanzigo.com/ [运行时间：0.019608s][吞吐率：51.00req/s] [内存消耗：1,978.59kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T06:20:15+08:00 ] 172.19.226.46 140.205.205.23 GET /home/index/index
+[ log ] yuanzigo.com/home/index/index [运行时间：0.311843s][吞吐率：3.21req/s] [内存消耗：3,438.73kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T06:20:16+08:00 ] 172.19.226.46 140.205.205.23 GET /home/index/index
+[ log ] yuanzigo.com/home/index/index [运行时间：0.171793s][吞吐率：5.82req/s] [内存消耗：3,438.38kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'host' => 'yuanzigo.com',
+  'referer' => 'https://yuanzigo.com/home/index/index',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T07:16:33+08:00 ] 172.19.226.46 140.205.205.25 GET /
+[ log ] www.yuanzichufa.com/ [运行时间：0.018538s][吞吐率：53.94req/s] [内存消耗：1,978.53kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzichufa.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T07:16:33+08:00 ] 172.19.226.46 140.205.205.25 GET /home/index/index
+[ log ] www.yuanzichufa.com/home/index/index [运行时间：0.193087s][吞吐率：5.18req/s] [内存消耗：3,438.38kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzichufa.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T07:16:34+08:00 ] 172.19.226.46 140.205.205.25 GET /home/index/index
+[ log ] www.yuanzichufa.com/home/index/index [运行时间：0.187565s][吞吐率：5.33req/s] [内存消耗：3,438.55kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'host' => 'www.yuanzichufa.com',
+  'referer' => 'https://www.yuanzichufa.com/home/index/index',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T08:29:07+08:00 ] 172.19.226.46 123.125.71.70 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018598s][吞吐率：53.77req/s] [内存消耗：1,978.99kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T08:29:08+08:00 ] 172.19.226.46 123.125.71.102 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.320838s][吞吐率：3.12req/s] [内存消耗：3,438.84kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T10:58:31+08:00 ] 172.19.226.46 59.64.129.61 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.019188s][吞吐率：52.12req/s] [内存消耗：1,978.70kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'user-agent' => 'python-requests/2.18.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T10:58:31+08:00 ] 172.19.226.46 59.64.129.61 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.346639s][吞吐率：2.88req/s] [内存消耗：3,438.85kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'user-agent' => 'python-requests/2.18.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T11:03:03+08:00 ] 172.19.226.46 60.191.38.77 GET /
+[ log ] 47.100.166.58:443/ [运行时间：0.019112s][吞吐率：52.32req/s] [内存消耗：1,978.84kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58:443',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T11:20:52+08:00 ] 172.19.226.46 106.11.242.59 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.023943s][吞吐率：41.77req/s] [内存消耗：1,979.04kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'www.yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T11:20:52+08:00 ] 172.19.226.46 106.11.227.91 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.246533s][吞吐率：4.06req/s] [内存消耗：3,438.83kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'www.yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T13:42:27+08:00 ] 172.19.226.46 36.110.170.250 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018827s][吞吐率：53.12req/s] [内存消耗：1,978.47kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Wget/1.12 (linux-gnu)',
+  'accept' => '*/*',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T13:42:28+08:00 ] 172.19.226.46 36.110.170.250 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.362601s][吞吐率：2.76req/s] [内存消耗：3,438.39kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Wget/1.12 (linux-gnu)',
+  'accept' => '*/*',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T13:52:34+08:00 ] 172.19.226.46 54.202.80.32 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018544s][吞吐率：53.93req/s] [内存消耗：1,978.49kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T13:52:37+08:00 ] 172.19.226.46 54.202.80.32 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.198713s][吞吐率：5.03req/s] [内存消耗：3,437.98kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:25:28+08:00 ] 172.19.226.46 35.168.21.182 GET /
+[ log ] yuanzigo.com/ [运行时间：0.020284s][吞吐率：49.30req/s] [内存消耗：1,978.99kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'requesturl' => 'http://yuanzigo.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept-encoding' => 'utf-8',
+  'host' => 'yuanzigo.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:25:29+08:00 ] 172.19.226.46 35.168.21.182 GET /home/index/index
+[ log ] yuanzigo.com/home/index/index [运行时间：0.214104s][吞吐率：4.67req/s] [内存消耗：3,438.38kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'requesturl' => 'http://yuanzigo.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept-encoding' => 'utf-8',
+  'host' => 'yuanzigo.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:28:14+08:00 ] 172.19.226.46 167.114.172.224 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018422s][吞吐率：54.28req/s] [内存消耗：1,978.01kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; Dataprovider.com;)',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'Close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:28:15+08:00 ] 172.19.226.46 167.114.172.224 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.220351s][吞吐率：4.54req/s] [内存消耗：3,437.98kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; Dataprovider.com;)',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'Close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:28:29+08:00 ] 172.19.226.46 167.114.172.224 GET /sitemap.xml
+[ log ] www.yuanzigo.com/sitemap.xml [运行时间：0.016123s][吞吐率：62.02req/s] [内存消耗：1,572.05kb] [文件加载：40]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'sitemap',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; Dataprovider.com;)',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'Close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:28:37+08:00 ] 172.19.226.46 167.114.172.224 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.267028s][吞吐率：3.74req/s] [内存消耗：3,437.08kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; Dataprovider.com;)',
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'scene_id=19841',
+  'connection' => 'Close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:28:37+08:00 ] 172.19.226.46 167.114.172.224 GET /home/index/
+[ log ] www.yuanzigo.com/home/index/ [运行时间：0.197982s][吞吐率：5.05req/s] [内存消耗：3,437.19kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; Dataprovider.com;)',
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'scene_id=19841',
+  'connection' => 'Close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:28:38+08:00 ] 172.19.226.46 167.114.172.224 GET /ads.txt
+[ log ] www.yuanzigo.com/ads.txt [运行时间：0.016977s][吞吐率：58.90req/s] [内存消耗：1,572.12kb] [文件加载：40]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ads',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; Dataprovider.com;)',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'Close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:28:39+08:00 ] 172.19.226.46 167.114.172.224 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.187080s][吞吐率：5.35req/s] [内存消耗：3,438.16kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'Close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:35:34+08:00 ] 172.19.226.46 34.229.245.80 GET /
+[ log ] www.yuanzichufa.com/ [运行时间：0.018810s][吞吐率：53.16req/s] [内存消耗：1,978.80kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'requesturl' => 'https://www.yuanzichufa.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept-encoding' => 'utf-8',
+  'host' => 'www.yuanzichufa.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T14:35:36+08:00 ] 172.19.226.46 34.229.245.80 GET /home/index/index
+[ log ] www.yuanzichufa.com/home/index/index [运行时间：0.220182s][吞吐率：4.54req/s] [内存消耗：3,438.49kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'requesturl' => 'https://www.yuanzichufa.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept-encoding' => 'utf-8',
+  'host' => 'www.yuanzichufa.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T15:33:55+08:00 ] 172.19.226.46 60.191.38.77 GET /
+[ log ] 47.100.166.58:443/ [运行时间：0.018740s][吞吐率：53.36req/s] [内存消耗：1,978.84kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58:443',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T16:28:34+08:00 ] 172.19.226.46 123.125.71.83 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.020743s][吞吐率：48.21req/s] [内存消耗：1,978.99kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T16:28:34+08:00 ] 172.19.226.46 123.125.71.31 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.365181s][吞吐率：2.74req/s] [内存消耗：3,438.87kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:09:48+08:00 ] 172.19.226.46 101.226.233.158 POST /index.php/index/Weixin/index?signature=5b0d290302a3ed58c63a3f8b76699bc6792ca259&timestamp=1521623388&nonce=1734977343&openid=omP8Nwn41JMeQlXl4w9ekivUzbnE
+[ log ] www.yuanzigo.com/index.php/index/Weixin/index?signature=5b0d290302a3ed58c63a3f8b76699bc6792ca259&timestamp=1521623388&nonce=1734977343&openid=omP8Nwn41JMeQlXl4w9ekivUzbnE [运行时间：0.020180s][吞吐率：49.55req/s] [内存消耗：2,156.36kb] [文件加载：49]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Weixin',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.yuanzigo.com',
+  'pragma' => 'no-cache',
+  'content-length' => '351',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '5b0d290302a3ed58c63a3f8b76699bc6792ca259',
+  'timestamp' => '1521623388',
+  'nonce' => '1734977343',
+  'openid' => 'omP8Nwn41JMeQlXl4w9ekivUzbnE',
+)
+[ info ] [ RUN ] app\index\controller\Weixin->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Weixin.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:09:49+08:00 ] 172.19.226.46 180.169.225.186 GET /api/activity/getlist?_t=1521623389&hot=1&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/activity/getlist?_t=1521623389&hot=1&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.033810s][吞吐率：29.58req/s] [内存消耗：3,374.81kb] [文件加载：58]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'activity',
+    2 => 'getlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623389',
+  'hot' => '1',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Activity->getList[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:09:49+08:00 ] 172.19.226.46 180.169.225.186 GET /api/activity/getlist?_t=1521623389&hot=0&order=look&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/activity/getlist?_t=1521623389&hot=0&order=look&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.041448s][吞吐率：24.13req/s] [内存消耗：3,374.76kb] [文件加载：58]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'activity',
+    2 => 'getlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623389',
+  'hot' => '0',
+  'order' => 'look',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Activity->getList[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:09:49+08:00 ] 172.19.226.46 180.169.225.186 GET /api/activity/getlist?_t=1521623389&hot=0&order=order&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/activity/getlist?_t=1521623389&hot=0&order=order&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.042566s][吞吐率：23.49req/s] [内存消耗：3,374.97kb] [文件加载：58]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'activity',
+    2 => 'getlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623389',
+  'hot' => '0',
+  'order' => 'order',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Activity->getList[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:09:49+08:00 ] 172.19.226.46 180.169.225.186 POST /api/wechat/jssign
+[ log ] www.yuanzigo.com/api/wechat/jssign [运行时间：0.116768s][吞吐率：8.56req/s] [内存消耗：2,130.80kb] [文件加载：52]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'wechat',
+    2 => 'jssign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'accept-encoding' => 'br, gzip, deflate',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'content-length' => '431',
+  'accept-language' => 'zh-cn',
+)
+[ info ] [ PARAM ] array (
+  'url' => 'http://www.yuanzigo.com/wx1801/',
+  'debug' => '0',
+  '_t' => '1521623389',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Wechat->jssign[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Wechat.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:09:49+08:00 ] 172.19.226.46 180.169.225.186 GET /api/order/mylist?_t=1521623389&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/order/mylist?_t=1521623389&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.031814s][吞吐率：31.43req/s] [内存消耗：3,468.13kb] [文件加载：60]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'order',
+    2 => 'mylist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623389',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Order->mylist[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Order.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:09:50+08:00 ] 172.19.226.46 180.169.225.186 POST /api/wechat/jssign
+[ log ] www.yuanzigo.com/api/wechat/jssign [运行时间：0.021207s][吞吐率：47.15req/s] [内存消耗：2,130.45kb] [文件加载：52]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'wechat',
+    2 => 'jssign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'accept-encoding' => 'br, gzip, deflate',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'content-length' => '431',
+  'accept-language' => 'zh-cn',
+)
+[ info ] [ PARAM ] array (
+  'url' => 'http://www.yuanzigo.com/wx1801/',
+  'debug' => '0',
+  '_t' => '1521623390',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Wechat->jssign[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Wechat.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:10:00+08:00 ] 172.19.226.46 180.169.225.186 POST /api/activity/detail
+[ log ] www.yuanzigo.com/api/activity/detail [运行时间：0.037590s][吞吐率：26.60req/s] [内存消耗：3,439.10kb] [文件加载：59]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'activity',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'accept-encoding' => 'br, gzip, deflate',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'content-length' => '383',
+  'accept-language' => 'zh-cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '45',
+  '_t' => '1521623400',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Activity->detail[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:10:02+08:00 ] 172.19.226.46 180.169.225.186 GET /api/activity/getlist?_t=1521623402&hot=1&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/activity/getlist?_t=1521623402&hot=1&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.032762s][吞吐率：30.52req/s] [内存消耗：3,374.81kb] [文件加载：58]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'activity',
+    2 => 'getlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623402',
+  'hot' => '1',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Activity->getList[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:10:02+08:00 ] 172.19.226.46 180.169.225.186 GET /api/order/mylist?_t=1521623402&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/order/mylist?_t=1521623402&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.033379s][吞吐率：29.96req/s] [内存消耗：3,468.13kb] [文件加载：60]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'order',
+    2 => 'mylist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623402',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Order->mylist[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Order.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:10:02+08:00 ] 172.19.226.46 180.169.225.186 GET /api/activity/getlist?_t=1521623402&hot=0&order=look&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/activity/getlist?_t=1521623402&hot=0&order=look&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.042046s][吞吐率：23.78req/s] [内存消耗：3,374.76kb] [文件加载：58]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'activity',
+    2 => 'getlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623402',
+  'hot' => '0',
+  'order' => 'look',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Activity->getList[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T17:10:02+08:00 ] 172.19.226.46 180.169.225.186 GET /api/activity/getlist?_t=1521623402&hot=0&order=order&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M
+[ log ] www.yuanzigo.com/api/activity/getlist?_t=1521623402&hot=0&order=order&shopid=23&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M [运行时间：0.043520s][吞吐率：22.98req/s] [内存消耗：3,374.97kb] [文件加载：58]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'activity',
+    2 => 'getlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 MicroMessenger/6.6.5 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://www.yuanzigo.com/wx1801/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'br, gzip, deflate',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '_t' => '1521623402',
+  'hot' => '0',
+  'order' => 'order',
+  'shopid' => '23',
+  'token' => 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsIm9wZW5pZCI6Im9tUDhOd240MUpNZVFsWGw0dzlla2l2VXpibkUiLCJtaWQiOjksImhlYWRpbWd1cmwiOiJodHRwOlwvXC93eC5xbG9nby5jblwvbW1vcGVuXC92aV8zMlwvUTBqNFR3R1RmVEtneVlZNHRxMnFJOTRYaWNpY3lEYUs5RnlaYnQzQk4wRUtWa3dmNWliZW82SHJWcGhWMzgwVG9Mb0p2ZXppYTAzaWJVZ002cEVQbUhGTVBDUVwvMTMyIn0.BHCjK4Ec7AHFnmNBoYJuZDsayMfvHjY3rD3ydn66j1M',
+)
+[ info ] [ RUN ] app\api\controller\Activity->getList[ /home/wwwroot/www.yuanzigo.com/application/api/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T18:14:36+08:00 ] 172.19.226.46 47.92.22.210 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.337462s][吞吐率：2.96req/s] [内存消耗：3,438.73kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'www.yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T18:51:07+08:00 ] 172.19.226.46 106.11.225.144 GET /
+[ log ] yuanzigo.com/ [运行时间：0.019659s][吞吐率：50.87req/s] [内存消耗：1,979.05kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T18:51:07+08:00 ] 172.19.226.46 106.11.225.207 GET /home/index/index
+[ log ] yuanzigo.com/home/index/index [运行时间：0.201922s][吞吐率：4.95req/s] [内存消耗：3,438.37kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T19:30:29+08:00 ] 172.19.226.46 38.142.98.218 GET /
+[ log ] yuanzigo.com/ [运行时间：0.020815s][吞吐率：48.04req/s] [内存消耗：2,015.27kb] [文件加载：50]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: HTTP_USER_AGENT[/home/wwwroot/www.yuanzigo.com/application/common.php:13]
+
+---------------------------------------------------------------
+[ 2018-03-21T20:27:26+08:00 ] 172.19.226.46 60.191.38.77 GET /
+[ log ] 47.100.166.58:443/ [运行时间：0.018585s][吞吐率：53.81req/s] [内存消耗：1,978.84kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58:443',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T20:54:18+08:00 ] 172.19.226.46 106.11.177.170 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018372s][吞吐率：54.43req/s] [内存消耗：1,978.70kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.18.4',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T20:54:18+08:00 ] 172.19.226.46 106.11.177.168 GET /
+[ log ] yuanzigo.com/ [运行时间：0.020044s][吞吐率：49.89req/s] [内存消耗：1,978.52kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.18.4',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T20:54:19+08:00 ] 172.19.226.46 106.11.177.170 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.433183s][吞吐率：2.31req/s] [内存消耗：3,438.46kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.18.4',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T20:54:19+08:00 ] 172.19.226.46 106.11.177.168 GET /home/index/index
+[ log ] yuanzigo.com/home/index/index [运行时间：0.432150s][吞吐率：2.31req/s] [内存消耗：3,438.93kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.18.4',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T21:10:54+08:00 ] 172.19.226.46 60.191.38.77 GET /
+[ log ] 47.100.166.58:443/ [运行时间：0.018955s][吞吐率：52.76req/s] [内存消耗：1,978.84kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58:443',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T22:20:13+08:00 ] 172.19.226.46 202.108.211.56 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018265s][吞吐率：54.75req/s] [内存消耗：1,979.42kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T22:20:13+08:00 ] 172.19.226.46 202.108.211.56 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.340319s][吞吐率：2.94req/s] [内存消耗：3,439.47kb] [文件加载：92]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/home/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/home/view/index/index.html [ array (
+  0 => 'qr',
+  1 => 'code',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-03-21T22:26:24+08:00 ] 172.19.226.46 184.105.139.70 GET /
+[ log ] 47.100.166.58/ [运行时间：0.021323s][吞吐率：46.90req/s] [内存消耗：2,015.23kb] [文件加载：50]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: HTTP_USER_AGENT[/home/wwwroot/www.yuanzigo.com/application/common.php:13]
+
+---------------------------------------------------------------

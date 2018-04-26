@@ -1,0 +1,2317 @@
+[ 2018-04-26T00:32:59+08:00 ] 172.19.226.46 220.181.108.186 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018258s][吞吐率：54.77req/s] [内存消耗：1,959.18kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T01:10:26+08:00 ] 172.19.226.46 140.205.205.25 HEAD /
+[ log ] www.yuanzichufa.com:443/ [运行时间：0.020965s][吞吐率：47.70req/s] [内存消耗：1,958.57kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzichufa.com:443',
+  'user-agent' => 'Go-http-client/1.1',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T02:33:28+08:00 ] 172.19.226.46 40.77.167.102 GET /
+[ log ] www.yuanzichufa.com/ [运行时间：0.019665s][吞吐率：50.85req/s] [内存消耗：1,959.02kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'pragma' => 'no-cache',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'from' => 'bingbot(at)microsoft.com',
+  'host' => 'www.yuanzichufa.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T03:06:36+08:00 ] 172.19.226.46 180.149.130.18 GET /
+[ log ] yuanzigo.com/ [运行时间：0.018565s][吞吐率：53.86req/s] [内存消耗：1,958.80kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'en-US,*',
+  'host' => 'yuanzigo.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T04:12:44+08:00 ] 172.19.226.46 42.236.54.22 GET /
+[ log ] yuanzigo.com/ [运行时间：0.019326s][吞吐率：51.74req/s] [内存消耗：1,959.05kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'accept-encoding' => 'deflate, gzip',
+  'referer' => 'http://yuanzigo.com/',
+  'cookie' => '',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T04:24:50+08:00 ] 172.19.226.46 139.162.116.133 GET /
+[ log ] 47.100.166.58/ [运行时间：0.020897s][吞吐率：47.85req/s] [内存消耗：1,958.35kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.100.166.58',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T04:34:36+08:00 ] 172.19.226.46 140.205.205.23 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.019168s][吞吐率：52.17req/s] [内存消耗：1,958.70kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T04:34:36+08:00 ] 172.19.226.46 140.205.205.25 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018283s][吞吐率：54.70req/s] [内存消耗：1,958.98kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'host' => 'www.yuanzigo.com',
+  'referer' => 'https://www.yuanzigo.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T05:28:46+08:00 ] 172.19.226.46 140.205.205.23 HEAD /
+[ log ] www.yuanzigo.com:443/ [运行时间：0.018521s][吞吐率：53.99req/s] [内存消耗：1,958.53kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com:443',
+  'user-agent' => 'Go-http-client/1.1',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T06:04:38+08:00 ] 172.19.226.46 140.205.205.25 GET /
+[ log ] yuanzigo.com/ [运行时间：0.023011s][吞吐率：43.46req/s] [内存消耗：1,958.59kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T06:04:38+08:00 ] 172.19.226.46 140.205.205.23 GET /
+[ log ] yuanzigo.com/ [运行时间：0.018847s][吞吐率：53.06req/s] [内存消耗：1,958.72kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'host' => 'yuanzigo.com',
+  'referer' => 'https://yuanzigo.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T06:32:02+08:00 ] 172.19.226.46 140.205.205.23 HEAD /
+[ log ] yuanzigo.com:443/ [运行时间：0.019467s][吞吐率：51.37req/s] [内存消耗：1,958.41kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com:443',
+  'user-agent' => 'Go-http-client/1.1',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T06:52:19+08:00 ] 172.19.226.46 101.132.98.159 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.018415s][吞吐率：54.30req/s] [内存消耗：1,958.78kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'www.yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T06:52:22+08:00 ] 172.19.226.46 101.132.97.6 GET /
+[ log ] yuanzigo.com/ [运行时间：0.019538s][吞吐率：51.18req/s] [内存消耗：1,958.52kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T06:58:58+08:00 ] 172.19.226.46 140.205.205.25 GET /
+[ log ] www.yuanzichufa.com/ [运行时间：0.019512s][吞吐率：51.25req/s] [内存消耗：1,958.70kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzichufa.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T06:58:59+08:00 ] 172.19.226.46 140.205.205.23 GET /
+[ log ] www.yuanzichufa.com/ [运行时间：0.019268s][吞吐率：51.90req/s] [内存消耗：1,959.09kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Scrapy/1.5.0 (+https://scrapy.org)',
+  'host' => 'www.yuanzichufa.com',
+  'referer' => 'https://www.yuanzichufa.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T07:36:39+08:00 ] 172.19.226.46 123.125.67.206 GET /home/index/index
+[ log ] www.yuanzigo.com/home/index/index [运行时间：0.017776s][吞吐率：56.26req/s] [内存消耗：1,516.57kb] [文件加载：40]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T07:42:40+08:00 ] 172.19.226.46 123.147.165.23 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.019397s][吞吐率：51.55req/s] [内存消耗：1,959.45kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'connection' => 'close',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'host' => 'www.yuanzigo.com',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T08:31:24+08:00 ] 172.19.226.46 123.125.71.26 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.020819s][吞吐率：48.03req/s] [内存消耗：1,959.19kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T08:31:57+08:00 ] 172.19.226.46 211.115.79.122 GET /
+[ log ] yuanzigo.com/ [运行时间：0.019547s][吞吐率：51.16req/s] [内存消耗：1,958.76kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T08:50:21+08:00 ] 172.19.226.46 42.51.196.55 GET /
+[ log ] 47.100.166.58:443/ [运行时间：0.019305s][吞吐率：51.80req/s] [内存消耗：1,959.34kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0',
+  'accept-language' => 'zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3',
+  'upgrade-insecure-requests' => '1',
+  'dnt' => '1',
+  'accept-encoding' => 'identity',
+  'host' => '47.100.166.58:443',
+  'accept' => '*/*',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:00:28+08:00 ] 172.19.226.46 223.104.213.73 GET /index/index/index
+[ log ] www.yuanzigo.com/index/index/index [运行时间：0.018377s][吞吐率：54.42req/s] [内存消耗：1,959.41kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1',
+  'referer' => 'http://www.yuanzigo.com/admin/system/user',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:00:52+08:00 ] 172.19.226.46 223.104.213.73 POST /index/index/login
+[ log ] www.yuanzigo.com/index/index/login [运行时间：0.033539s][吞吐率：29.82req/s] [内存消耗：3,259.80kb] [文件加载：57]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://www.yuanzigo.com',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1',
+  'referer' => 'http://www.yuanzigo.com/index/index/index',
+  'content-length' => '30',
+  'x-requested-with' => 'XMLHttpRequest',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'username' => 'admin',
+)
+[ info ] [ RUN ] app\index\controller\Index->login[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000567s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000840s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `name` = 'admin'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000425s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user_rules` [ RunTime:0.000756s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_user_rules` WHERE  `aman_user_rules`.`delete_time` IS NULL  AND `id` = 1 LIMIT 1 [ RunTime:0.000266s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T09:00:56+08:00 ] 172.19.226.46 223.104.213.73 GET /index/index/index
+[ log ] www.yuanzigo.com/index/index/index [运行时间：0.019641s][吞吐率：50.91req/s] [内存消耗：1,903.97kb] [文件加载：47]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1',
+  'referer' => 'http://www.yuanzigo.com/index/index/index',
+  'cache-control' => 'max-age=0',
+  'accept-language' => 'zh-cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:00:56+08:00 ] 172.19.226.46 223.104.213.73 GET /admin/system/index
+[ log ] www.yuanzigo.com/admin/system/index [运行时间：0.042598s][吞吐率：23.48req/s] [内存消耗：3,414.30kb] [文件加载：59]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'accept-language' => 'zh-cn',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1',
+  'referer' => 'http://www.yuanzigo.com/index/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'cache-control' => 'max-age=0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->index[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/System.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/system/index.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000462s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000752s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000402s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000220s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000180s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000194s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000174s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000168s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000275s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000159s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000172s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000180s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000193s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000157s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000180s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000147s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T09:01:04+08:00 ] 172.19.226.46 223.104.213.73 GET /admin/data/daily
+[ log ] www.yuanzigo.com/admin/data/daily [运行时间：0.072962s][吞吐率：13.71req/s] [内存消耗：3,696.19kb] [文件加载：62]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'data',
+    2 => 'daily',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1',
+  'referer' => 'http://www.yuanzigo.com/admin/system/index',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Data->daily[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Data.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/data/daily.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'num',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000494s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000778s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000401s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000184s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000202s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000186s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000179s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` = 0 LIMIT 1 [ RunTime:0.000546s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` > 0 LIMIT 1 [ RunTime:0.000423s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000583s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000369s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `rule` = 2 LIMIT 1 [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000264s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` = 0 LIMIT 1 [ RunTime:0.000409s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` > 0 LIMIT 1 [ RunTime:0.000440s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000374s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `rule` = 2 LIMIT 1 [ RunTime:0.000351s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000231s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` = 0 LIMIT 1 [ RunTime:0.000451s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` > 0 LIMIT 1 [ RunTime:0.000482s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000343s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `rule` = 2 LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000250s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` = 0 LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` > 0 LIMIT 1 [ RunTime:0.000569s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000225s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` = 0 LIMIT 1 [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` > 0 LIMIT 1 [ RunTime:0.000366s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000401s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000362s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000231s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` = 0 LIMIT 1 [ RunTime:0.000398s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` > 0 LIMIT 1 [ RunTime:0.000372s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000378s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000323s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000226s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0 LIMIT 1 [ RunTime:0.000384s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` > 0 LIMIT 1 [ RunTime:0.000363s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000402s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `rule` = 2 LIMIT 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000310s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000335s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000159s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000178s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000168s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000155s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000149s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T09:01:50+08:00 ] 172.19.226.46 106.11.242.125 GET /
+[ log ] www.yuanzigo.com/ [运行时间：0.019625s][吞吐率：50.96req/s] [内存消耗：1,959.02kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'www.yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:42:33+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/orders/index
+[ log ] www.yuanzigo.com/admin/orders/index [运行时间：0.061539s][吞吐率：16.25req/s] [内存消耗：3,958.31kb] [文件加载：68]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'orders',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/activity/add/id/380',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Orders->index[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Orders.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/orders/index.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'list',
+  4 => 'status',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000517s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000756s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000439s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000225s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000168s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000199s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000176s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000151s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000180s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.000687s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000234s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 ORDER BY update_time desc LIMIT 0,10 [ RunTime:0.000366s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000297s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000159s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000138s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000153s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000177s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000166s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000164s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000617s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 371 LIMIT 1 [ RunTime:0.000307s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_shop` [ RunTime:0.000552s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000246s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 371 LIMIT 1 [ RunTime:0.000259s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000233s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 371 LIMIT 1 [ RunTime:0.000254s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000221s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 248 LIMIT 1 [ RunTime:0.000250s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000228s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 246 LIMIT 1 [ RunTime:0.000248s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 119 LIMIT 1 [ RunTime:0.000231s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 233 LIMIT 1 [ RunTime:0.000223s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 119 LIMIT 1 [ RunTime:0.000224s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 230 LIMIT 1 [ RunTime:0.000229s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000242s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 254 LIMIT 1 [ RunTime:0.000257s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 129 LIMIT 1 [ RunTime:0.000228s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T09:46:38+08:00 ] 172.19.226.46 120.204.200.82 GET /mobile/activity/detailtoc/id/404
+[ log ] www.yuanzigo.com/mobile/activity/detailtoc/id/404 [运行时间：0.021710s][吞吐率：46.06req/s] [内存消耗：2,076.50kb] [文件加载：49]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'activity',
+    2 => 'detailtoc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '404',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:46:38+08:00 ] 172.19.226.46 120.204.200.82 GET /mobile/wechat/getweixininfo?jump=http://www.yuanzigo.com/mobile/activity/detailtoc/id/404
+[ log ] www.yuanzigo.com/mobile/wechat/getweixininfo?jump=http://www.yuanzigo.com/mobile/activity/detailtoc/id/404 [运行时间：0.019178s][吞吐率：52.14req/s] [内存消耗：1,947.31kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'wechat',
+    2 => 'getweixininfo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'referer' => 'http://www.yuanzigo.com/mobile/activity/detailtoc/id/404',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'jump' => 'http://www.yuanzigo.com/mobile/activity/detailtoc/id/404',
+)
+[ info ] [ RUN ] app\mobile\controller\Wechat->getWeixinInfo[ /home/wwwroot/www.yuanzigo.com/application/mobile/controller/Wechat.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:46:39+08:00 ] 172.19.226.46 120.204.200.82 GET /mobile/wechat/weixininfo
+[ log ] www.yuanzigo.com/mobile/wechat/weixininfo [运行时间：0.018194s][吞吐率：54.96req/s] [内存消耗：1,905.16kb] [文件加载：47]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'wechat',
+    2 => 'weixininfo',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'referer' => 'http://www.yuanzigo.com/mobile/wechat/getweixininfo?jump=http://www.yuanzigo.com/mobile/activity/detailtoc/id/404',
+  'cookie' => 'jump=http%3A%2F%2Fwww.yuanzigo.com%2Fmobile%2Factivity%2Fdetailtoc%2Fid%2F404',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\mobile\controller\Wechat->weixinInfo[ /home/wwwroot/www.yuanzigo.com/application/mobile/controller/Wechat.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:53:13+08:00 ] 172.19.226.46 106.11.225.79 GET /
+[ log ] yuanzigo.com/ [运行时间：0.019270s][吞吐率：51.89req/s] [内存消耗：1,959.08kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'yuanzigo.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T09:59:38+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/orders/index
+[ log ] www.yuanzigo.com/admin/orders/index [运行时间：0.061266s][吞吐率：16.32req/s] [内存消耗：3,958.55kb] [文件加载：68]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'orders',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/orders/index',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Orders->index[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Orders.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/orders/index.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'list',
+  4 => 'status',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000609s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000788s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000430s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000201s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000177s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000187s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.000790s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 ORDER BY update_time desc LIMIT 0,10 [ RunTime:0.000398s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000310s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000158s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000152s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000160s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000179s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000153s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000144s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000153s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000725s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 371 LIMIT 1 [ RunTime:0.000304s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_shop` [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000238s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 371 LIMIT 1 [ RunTime:0.000284s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000258s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 371 LIMIT 1 [ RunTime:0.000265s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000241s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 248 LIMIT 1 [ RunTime:0.000272s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000215s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 246 LIMIT 1 [ RunTime:0.000262s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 119 LIMIT 1 [ RunTime:0.000249s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 233 LIMIT 1 [ RunTime:0.000256s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 119 LIMIT 1 [ RunTime:0.000245s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 230 LIMIT 1 [ RunTime:0.000468s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 117 LIMIT 1 [ RunTime:0.000689s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `id` = 254 LIMIT 1 [ RunTime:0.000333s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 129 LIMIT 1 [ RunTime:0.000270s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T09:59:40+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/data/daily
+[ log ] www.yuanzigo.com/admin/data/daily [运行时间：0.075531s][吞吐率：13.24req/s] [内存消耗：3,695.80kb] [文件加载：62]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'data',
+    2 => 'daily',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/orders/index',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Data->daily[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Data.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/data/daily.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'num',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000459s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000421s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000182s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000260s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000181s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` = 0 LIMIT 1 [ RunTime:0.000504s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` > 0 LIMIT 1 [ RunTime:0.000432s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000600s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `rule` = 2 LIMIT 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.000669s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000253s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` = 0 LIMIT 1 [ RunTime:0.000377s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` > 0 LIMIT 1 [ RunTime:0.000362s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `rule` = 2 LIMIT 1 [ RunTime:0.000335s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000222s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` = 0 LIMIT 1 [ RunTime:0.000380s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` > 0 LIMIT 1 [ RunTime:0.000465s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `rule` = 2 LIMIT 1 [ RunTime:0.000311s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000258s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` = 0 LIMIT 1 [ RunTime:0.000411s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` > 0 LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000318s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000243s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` = 0 LIMIT 1 [ RunTime:0.000369s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` > 0 LIMIT 1 [ RunTime:0.000369s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000370s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000783s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000298s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` = 0 LIMIT 1 [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` > 0 LIMIT 1 [ RunTime:0.000411s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000336s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000520s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000272s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0 LIMIT 1 [ RunTime:0.000503s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` > 0 LIMIT 1 [ RunTime:0.000367s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000357s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `rule` = 2 LIMIT 1 [ RunTime:0.000332s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000209s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000302s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000179s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000178s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000352s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000193s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000197s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000158s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000153s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000143s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000158s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000149s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T10:11:13+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/activity/index
+[ log ] www.yuanzigo.com/admin/activity/index [运行时间：1.028058s][吞吐率：0.97req/s] [内存消耗：5,871.17kb] [文件加载：91]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'activity',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/data/daily',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Activity->index[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/activity/index.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'tags_on',
+  4 => 'type_on',
+  5 => 'list',
+  6 => 'slist',
+  7 => 'shoplist',
+  8 => 'tags',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000539s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000799s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000396s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000187s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000209s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000172s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000164s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0  AND `end_time` >  1524708672 LIMIT 1 [ RunTime:0.000481s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0  AND `end_time` >  1524708672 ORDER BY hot desc,id desc LIMIT 0,10 [ RunTime:0.000737s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000411s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_hot` [ RunTime:0.000571s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 394 [ RunTime:0.000353s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000382s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 389 [ RunTime:0.000354s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000323s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 357 [ RunTime:0.000391s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000310s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 341 [ RunTime:0.000327s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000351s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 293 [ RunTime:0.000344s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000286s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 282 [ RunTime:0.000338s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000284s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 279 [ RunTime:0.000337s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000294s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 268 [ RunTime:0.000290s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000285s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 117 [ RunTime:0.000273s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000279s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 400 [ RunTime:0.000332s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_shop` [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL [ RunTime:0.000517s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000300s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `tel` IS NULL [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_tags` [ RunTime:0.000581s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_tags` WHERE  `aman_tags`.`delete_time` IS NULL [ RunTime:0.000198s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000272s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000137s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000154s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000159s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000143s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000132s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000131s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000259s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000367s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000318s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000412s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 141 LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 129 LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 140 LIMIT 1 [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 132 LIMIT 1 [ RunTime:0.000375s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 137 LIMIT 1 [ RunTime:0.000429s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 1 LIMIT 1 [ RunTime:0.000389s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T10:34:25+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/data/daily
+[ log ] www.yuanzigo.com/admin/data/daily [运行时间：0.068998s][吞吐率：14.49req/s] [内存消耗：3,696.05kb] [文件加载：62]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'data',
+    2 => 'daily',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/activity/index',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Data->daily[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Data.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/data/daily.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'num',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000482s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000733s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000420s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000174s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` = 0 LIMIT 1 [ RunTime:0.000483s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` > 0 LIMIT 1 [ RunTime:0.000357s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000578s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `rule` = 2 LIMIT 1 [ RunTime:0.000333s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.000605s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000248s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` = 0 LIMIT 1 [ RunTime:0.000384s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` > 0 LIMIT 1 [ RunTime:0.000353s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `rule` = 2 LIMIT 1 [ RunTime:0.000341s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000217s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` = 0 LIMIT 1 [ RunTime:0.000384s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` > 0 LIMIT 1 [ RunTime:0.000367s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `rule` = 2 LIMIT 1 [ RunTime:0.000312s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000216s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` = 0 LIMIT 1 [ RunTime:0.000371s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` > 0 LIMIT 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000349s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000339s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000212s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` = 0 LIMIT 1 [ RunTime:0.000369s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` > 0 LIMIT 1 [ RunTime:0.000376s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000364s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000332s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000217s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` = 0 LIMIT 1 [ RunTime:0.000349s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` > 0 LIMIT 1 [ RunTime:0.000357s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000210s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0 LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` > 0 LIMIT 1 [ RunTime:0.000316s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000354s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `rule` = 2 LIMIT 1 [ RunTime:0.000295s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000212s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000315s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000155s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000166s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000151s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000174s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000177s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000149s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000176s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000166s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T11:06:56+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/activity/index
+[ log ] www.yuanzigo.com/admin/activity/index [运行时间：1.027946s][吞吐率：0.97req/s] [内存消耗：5,871.23kb] [文件加载：91]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'activity',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/activity/add/id/400',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Activity->index[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Activity.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/activity/index.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'tags_on',
+  4 => 'type_on',
+  5 => 'list',
+  6 => 'slist',
+  7 => 'shoplist',
+  8 => 'tags',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000484s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000417s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000202s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000172s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000208s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000177s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000251s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000748s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0  AND `end_time` >  1524712015 LIMIT 1 [ RunTime:0.000508s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0  AND `end_time` >  1524712015 ORDER BY hot desc,id desc LIMIT 0,10 [ RunTime:0.000603s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000388s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_hot` [ RunTime:0.000472s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 394 [ RunTime:0.000283s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000277s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 389 [ RunTime:0.000354s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000263s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 357 [ RunTime:0.000295s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000350s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 341 [ RunTime:0.000453s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000266s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 293 [ RunTime:0.000249s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000282s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 282 [ RunTime:0.000301s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000263s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 279 [ RunTime:0.000261s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000277s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 268 [ RunTime:0.000245s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000279s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 117 [ RunTime:0.000319s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000265s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_hot` WHERE  `activity_id` = 400 [ RunTime:0.000280s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_shop` [ RunTime:0.000776s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL [ RunTime:0.000569s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000300s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `tel` IS NULL [ RunTime:0.000457s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_tags` [ RunTime:0.000618s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_tags` WHERE  `aman_tags`.`delete_time` IS NULL [ RunTime:0.000248s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000295s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000195s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000166s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000198s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000146s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000232s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000277s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000373s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000346s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 148 LIMIT 1 [ RunTime:0.000370s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 141 LIMIT 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 129 LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 140 LIMIT 1 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 132 LIMIT 1 [ RunTime:0.000337s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 137 LIMIT 1 [ RunTime:0.000359s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `id` = 1 LIMIT 1 [ RunTime:0.000385s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T11:09:32+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/data/daily
+[ log ] www.yuanzigo.com/admin/data/daily [运行时间：0.073032s][吞吐率：13.69req/s] [内存消耗：3,696.05kb] [文件加载：62]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'data',
+    2 => 'daily',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/activity/index',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Data->daily[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Data.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/data/daily.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'num',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000438s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000814s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000486s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000160s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000221s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000199s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000765s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` = 0 LIMIT 1 [ RunTime:0.000480s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` > 0 LIMIT 1 [ RunTime:0.000392s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000715s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `rule` = 2 LIMIT 1 [ RunTime:0.000333s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.000592s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000224s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` = 0 LIMIT 1 [ RunTime:0.000476s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` > 0 LIMIT 1 [ RunTime:0.000569s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `rule` = 2 LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000304s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` = 0 LIMIT 1 [ RunTime:0.000500s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` > 0 LIMIT 1 [ RunTime:0.000450s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000353s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `rule` = 2 LIMIT 1 [ RunTime:0.000368s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000571s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` = 0 LIMIT 1 [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` > 0 LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000419s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000351s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000252s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` = 0 LIMIT 1 [ RunTime:0.000394s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` > 0 LIMIT 1 [ RunTime:0.000471s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000489s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000467s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000243s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` = 0 LIMIT 1 [ RunTime:0.000470s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` > 0 LIMIT 1 [ RunTime:0.000404s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000387s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000330s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000216s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0 LIMIT 1 [ RunTime:0.000410s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` > 0 LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000339s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `rule` = 2 LIMIT 1 [ RunTime:0.000318s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000205s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000155s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000178s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000166s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000176s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000166s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000158s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000165s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T11:09:39+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/data/shop
+[ log ] www.yuanzigo.com/admin/data/shop [运行时间：0.053402s][吞吐率：18.73req/s] [内存消耗：3,580.52kb] [文件加载：61]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'data',
+    2 => 'shop',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D; Hm_lvt_48ffe2a92a272aad97bef37eeb07ace7=1522745185',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5',
+  'referer' => 'http://www.yuanzigo.com/admin/data/daily',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Data->shop[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Data.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/data/shop.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'reg',
+  4 => 'login',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000497s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000698s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000427s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000189s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000166s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000172s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000154s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000183s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_shop` [ RunTime:0.000554s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999 LIMIT 1 [ RunTime:0.000352s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399 LIMIT 1 [ RunTime:0.000234s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999 LIMIT 1 [ RunTime:0.000243s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599 LIMIT 1 [ RunTime:0.000229s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799 LIMIT 1 [ RunTime:0.000220s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799 LIMIT 1 [ RunTime:0.000226s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_shop` WHERE  `aman_shop`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799 LIMIT 1 [ RunTime:0.000232s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_member` [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_member` WHERE  `aman_member`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `shop_id` > 0 LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_member` WHERE  `aman_member`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `shop_id` > 0 LIMIT 1 [ RunTime:0.000229s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_member` WHERE  `aman_member`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `shop_id` > 0 LIMIT 1 [ RunTime:0.000212s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_member` WHERE  `aman_member`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `shop_id` > 0 LIMIT 1 [ RunTime:0.000227s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_member` WHERE  `aman_member`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `shop_id` > 0 LIMIT 1 [ RunTime:0.000223s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_member` WHERE  `aman_member`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `shop_id` > 0 LIMIT 1 [ RunTime:0.000236s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000303s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000203s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000196s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000172s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000283s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000182s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000303s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000202s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T11:12:03+08:00 ] 172.19.226.46 180.169.225.186 GET /admin/data/daily
+[ log ] www.yuanzigo.com/admin/data/daily [运行时间：0.070948s][吞吐率：14.09req/s] [内存消耗：3,696.19kb] [文件加载：62]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'data',
+    2 => 'daily',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.yuanzigo.com',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1',
+  'referer' => 'http://www.yuanzigo.com/admin/system/index',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Data->daily[ /home/wwwroot/www.yuanzigo.com/application/admin/controller/Data.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/admin/view/data/daily.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+  3 => 'num',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000575s ] mysql:dbname=yuanzi1804;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.000832s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000442s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_activity` [ RunTime:0.000627s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` = 0 LIMIT 1 [ RunTime:0.000459s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524672000 AND 1524758399  AND `element` > 0 LIMIT 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.000580s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000358s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `rule` = 2 LIMIT 1 [ RunTime:0.000352s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.000644s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524672000 AND 1524758399  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000288s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` = 0 LIMIT 1 [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524585600 AND 1524671999  AND `element` > 0 LIMIT 1 [ RunTime:0.000369s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `rule` = 2 LIMIT 1 [ RunTime:0.000366s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524585600 AND 1524671999  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000219s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` = 0 LIMIT 1 [ RunTime:0.000372s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1525017599  AND `element` > 0 LIMIT 1 [ RunTime:0.000417s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000335s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `rule` = 2 LIMIT 1 [ RunTime:0.000322s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1525017599  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000235s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` = 0 LIMIT 1 [ RunTime:0.000420s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1524412800 AND 1524412799  AND `element` > 0 LIMIT 1 [ RunTime:0.000353s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1524412800 AND 1524412799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` = 0 LIMIT 1 [ RunTime:0.000358s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1522512000 AND 1525102799  AND `element` > 0 LIMIT 1 [ RunTime:0.000361s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000376s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1522512000 AND 1525102799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000218s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` = 0 LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `update_time` BETWEEN 1519833600 AND 1522510799  AND `element` > 0 LIMIT 1 [ RunTime:0.000401s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `rule` = 2 LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `create_time` BETWEEN 1519833600 AND 1522510799  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000249s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` = 0 LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_activity` WHERE  `aman_activity`.`delete_time` IS NULL  AND `element` > 0 LIMIT 1 [ RunTime:0.000355s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `name` LIKE '%资源推荐' LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `rule` = 2 LIMIT 1 [ RunTime:0.000301s ]
+[ sql ] [ SQL ] SELECT SUM(pay_price) AS tp_sum FROM `aman_orderinfo` WHERE  `aman_orderinfo`.`delete_time` IS NULL  AND `pay_status` = 1 LIMIT 1 [ RunTime:0.000206s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000315s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000158s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000166s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000190s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000189s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000160s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000152s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000157s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T11:28:49+08:00 ] 172.19.226.46 183.136.190.62 GET /
+[ log ] yuanzigo.com/ [运行时间：0.018360s][吞吐率：54.47req/s] [内存消耗：1,958.86kb] [文件加载：48]
+[ info ] [ LANG ] /home/wwwroot/www.yuanzigo.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yuanzigo.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/www.yuanzigo.com/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /home/wwwroot/www.yuanzigo.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T12:13:15+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] local.yuanzigo.com/ [运行时间：0.123311s][吞吐率：8.11req/s] [内存消耗：2,962.31kb] [文件加载：50]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\wamp\www\www.yuanzigo.com\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\wamp\www\www.yuanzigo.com\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T12:13:23+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] local.yuanzigo.com/ [运行时间：0.047524s][吞吐率：21.04req/s] [内存消耗：2,710.88kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\wamp\www\www.yuanzigo.com\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\wamp\www\www.yuanzigo.com\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T12:14:02+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/system/index
+[ log ] local.yuanzigo.com/admin/system/index [运行时间：0.052769s][吞吐率：18.95req/s] [内存消耗：2,706.25kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T12:14:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index
+[ log ] local.yuanzigo.com/index/index/index [运行时间：0.044336s][吞吐率：22.56req/s] [内存消耗：2,710.30kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\wamp\www\www.yuanzigo.com\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\wamp\www\www.yuanzigo.com\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T12:14:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] local.yuanzigo.com/ [运行时间：0.048486s][吞吐率：20.62req/s] [内存消耗：2,710.54kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\wamp\www\www.yuanzigo.com\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\wamp\www\www.yuanzigo.com\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T12:15:45+08:00 ] 127.0.0.1 127.0.0.1 POST /index/index/login
+[ log ] local.yuanzigo.com/index/index/login [运行时间：0.100479s][吞吐率：9.95req/s] [内存消耗：4,477.52kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'content-length' => '30',
+  'accept' => '*/*',
+  'origin' => 'http://local.yuanzigo.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://local.yuanzigo.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'username' => 'admin',
+)
+[ info ] [ RUN ] app\index\controller\Index->login[ E:\wamp\www\www.yuanzigo.com\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007500s ] mysql:dbname=yuanzi;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user` [ RunTime:0.003514s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_user` WHERE  `aman_user`.`delete_time` IS NULL  AND `name` = 'admin'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.001047s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_user_rules` [ RunTime:0.004030s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_user_rules` WHERE  `aman_user_rules`.`delete_time` IS NULL  AND `id` = 1 LIMIT 1 [ RunTime:0.000731s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T12:15:46+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] local.yuanzigo.com/ [运行时间：0.050690s][吞吐率：19.73req/s] [内存消耗：2,633.06kb] [文件加载：47]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://local.yuanzigo.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\wamp\www\www.yuanzigo.com\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-26T12:15:47+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/system/index
+[ log ] local.yuanzigo.com/admin/system/index [运行时间：0.137542s][吞吐率：7.27req/s] [内存消耗：4,992.85kb] [文件加载：61]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://local.yuanzigo.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->index[ E:\wamp\www\www.yuanzigo.com\application\admin\controller\System.php ]
+[ info ] [ VIEW ] E:\wamp\www\www.yuanzigo.com\public/../application/admin\view\system\index.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001342s ] mysql:dbname=yuanzi;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.003883s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.001117s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000490s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000666s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000572s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.001030s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000797s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000442s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000491s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000568s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000484s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000580s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000540s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000467s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000578s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000461s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T12:15:51+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/index
+[ log ] local.yuanzigo.com/admin/index/index [运行时间：0.081012s][吞吐率：12.34req/s] [内存消耗：4,535.64kb] [文件加载：56]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://local.yuanzigo.com/admin/system/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->index[ E:\wamp\www\www.yuanzigo.com\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001309s ] mysql:dbname=yuanzi;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.001443s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000964s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000493s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000459s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000451s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000451s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T12:15:57+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/orders/outdata
+[ log ] local.yuanzigo.com/admin/orders/outdata [运行时间：0.139720s][吞吐率：7.16req/s] [内存消耗：5,039.74kb] [文件加载：61]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'orders',
+    2 => 'outdata',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://local.yuanzigo.com/admin/system/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Orders->outData[ E:\wamp\www\www.yuanzigo.com\application\admin\controller\Orders.php ]
+[ info ] [ VIEW ] E:\wamp\www\www.yuanzigo.com\public/../application/admin\view\orders\outdata.html [ array (
+  0 => 'userinfo',
+  1 => 'menuinfo',
+  2 => 'leftMenu',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001367s ] mysql:dbname=yuanzi;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.001486s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000914s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000623s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000477s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000703s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000501s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000441s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000535s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000759s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8 ORDER BY `order` [ RunTime:0.000518s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000581s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12 ORDER BY `order` [ RunTime:0.000448s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000693s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3 ORDER BY `order` [ RunTime:0.000657s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000635s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16 ORDER BY `order` [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1 ORDER BY `order` [ RunTime:0.000430s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000721s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6 ORDER BY `order` [ RunTime:0.000632s ]
+
+---------------------------------------------------------------
+[ 2018-04-26T12:16:03+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/orders/outexcel/start/2018-04-04/end/2018-04-04
+[ log ] local.yuanzigo.com/admin/orders/outexcel/start/2018-04-04/end/2018-04-04 [运行时间：0.337267s][吞吐率：2.97req/s] [内存消耗：11,276.29kb] [文件加载：119]
+[ info ] [ LANG ] E:\wamp\www\www.yuanzigo.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'orders',
+    2 => 'outexcel',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'local.yuanzigo.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://local.yuanzigo.com/admin/orders/outdata',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'userinfo=think%3A%7B%22id%22%3A%221%22%2C%22name%22%3A%22admin%22%2C%22password%22%3A%22e10adc3949ba59abbe56e057f20f883e%22%2C%22openid%22%3Anull%2C%22rule%22%3A%221%22%2C%22rule_id%22%3A0%2C%22proxy%22%3A0%2C%22verify%22%3A0%2C%22last_login_ip%22%3A%22%22%2C%22last_login_time%22%3Anull%2C%22last_location%22%3Anull%2C%22create_time%22%3Anull%2C%22update_time%22%3Anull%2C%22delete_time%22%3Anull%2C%22ruletxt%22%3A%22%25E7%25AE%25A1%25E7%2590%2586%25E5%2591%2598%22%7D',
+)
+[ info ] [ PARAM ] array (
+  'start' => '2018-04-04',
+  'end' => '2018-04-04',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Orders->outExcel[ E:\wamp\www\www.yuanzigo.com\application\admin\controller\Orders.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001448s ] mysql:dbname=yuanzi;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_leftmenu` [ RunTime:0.001332s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 0  AND `rule` = 1 ORDER BY `order` [ RunTime:0.001328s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 8  AND `rule` = 1 ORDER BY `order` [ RunTime:0.001161s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 12  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000767s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 3  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000759s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 16  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 1  AND `rule` = 1 ORDER BY `order` [ RunTime:0.001041s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_leftmenu` WHERE  `aman_leftmenu`.`delete_time` IS NULL  AND `fid` = 6  AND `rule` = 1 ORDER BY `order` [ RunTime:0.000801s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001788s ] mysql:dbname=yuanzi;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `aman_orderinfo` [ RunTime:0.004256s ]
+[ sql ] [ SQL ] SELECT * FROM `aman_orderinfo` WHERE  `pay_status` IN (1,2)  AND `update_time` BETWEEN 1522771200 AND 1522857599 ORDER BY update_time desc [ RunTime:0.003508s ]
+
+---------------------------------------------------------------
